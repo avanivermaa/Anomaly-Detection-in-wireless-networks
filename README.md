@@ -1,1 +1,4 @@
 # Anomaly-Detection-in-Wireless-Networks
+Our project aims to build a cybersecurity technique used to identify unusual or potentially malicious activities within a computer network. The primary goal is to detect network anomalies that may indicate cyberattacks, intrusions, or other security breaches. Network anomaly detectors work by analyzing network traffic and identifying patterns or behaviors that deviate from established baselines. Anomaly detectors continuously monitor network traffic, including incoming and outgoing data packets, network flows, and communication patterns. They collect a wide range of data related to network activity.
+We will be using various machine learning algorithms and techniques to build our project. 
+The goal of anomaly detection is to distinguish between normal data points, which make up the majority of the dataset, and anomalies, which are the exceptions.
