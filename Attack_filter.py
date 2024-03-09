@@ -106,11 +106,5 @@ for i in webs:
         df.to_csv('.\\attacks\\Web Attack.csv' ,index = False,header=False,mode="a")
     os.remove(".\\attacks\\"+str(i)+".csv")
 
-
-
-
-
-
-
 print("mission accomplished!")
 print("operation time: = ",time.time()- seconds ,"seconds")
