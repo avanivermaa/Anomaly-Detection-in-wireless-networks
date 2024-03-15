@@ -1,7 +1,5 @@
 ##  "all_data.csv" file is required for the operation of the program.
 ##  "all_data.csv" file must be located in the same directory as the program.
-
-
 ##  the purpose of this code is to determine which features to use in the machine learning phase.
 ##  for this purpose, the importance weights of the attacks are calculated.
 ##  this calculation was made using sklearn-RandomForestRegressor.
