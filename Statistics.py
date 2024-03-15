@@ -1,8 +1,5 @@
 ##  all_data.csv files is required for the operation of the program.
 ##  all_data.csv file must be located in the same directory as the program.
-
-
-
 ##  The purpose of this program is to provide statistics about the data contained in the dataset.
 ##  Considering that some of the data are very large and some of them are very small, the graphics are created in three separate groups, so that all data can be seen:
 ##          big: labels with more than 11000 numbers
