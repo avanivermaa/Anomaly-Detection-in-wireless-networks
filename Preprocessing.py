@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[4]:
-
-
 ##  CICIDS2017 csv files are required for the operation of the program.
 ##  These files must be located under the "CSVs" folder in the same directory as the program.
-
-
-
 ##  The purpose of this program is to clear the csv files containing CICIDS2017 data from errors.
 ##  the faults observed are:
 ##      1-   288602 of the entries in the file "Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv" are empty / meaningless.
