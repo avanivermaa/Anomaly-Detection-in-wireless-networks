@@ -7,9 +7,6 @@
 ##          small: labels with fewer than 600 numbers
 ##  
 ##  In the last graphics, the rates of all attacks and normal behaviors are given.
-
-
-
 import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt 
